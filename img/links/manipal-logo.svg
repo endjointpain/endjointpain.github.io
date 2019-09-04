@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="194px" viewBox="0 0 194 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>manipal-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-283.000000, -51.000000)">
+            <g id="manipal-logo" transform="translate(284.000000, 52.000000)">
+                <rect id="Rectangle" stroke="#BE274B" fill="#BE274B" stroke-linejoin="round" x="-0.5" y="-0.5" width="193" height="193" rx="2"></rect>
+                <text id="LIFE’S-ON" font-family="ArialMT, Arial" font-size="19" font-weight="normal" letter-spacing="0.057" fill="#F5EDED">
+                    <tspan x="49.8648184" y="159.08">LIFE’S ON</tspan>
+                </text>
+                <g id="plus" transform="translate(34.560000, 27.840000)" fill="#FFFFFF">
+                    <ellipse id="Oval" cx="71.8686316" cy="30.6263415" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="71.8686316" cy="52.32" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="71.8686316" cy="74.0136585" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="71.8686316" cy="95.7073171" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="50.0513684" cy="95.7073171" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="92.4025263" cy="52.32" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="112.936421" cy="52.32" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="50.0513684" cy="52.32" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="50.0513684" cy="74.0136585" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="29.5174737" cy="52.32" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="8.98357895" cy="52.32" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="71.8686316" cy="8.93268293" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="50.0513684" cy="30.6263415" rx="8.98357895" ry="8.93268293"></ellipse>
+                    <ellipse id="Oval" cx="50.0513684" cy="8.93268293" rx="8.98357895" ry="8.93268293"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

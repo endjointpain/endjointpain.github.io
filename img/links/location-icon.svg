@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>location-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-62.000000, -274.000000)">
+            <g id="location-icon" transform="translate(62.000000, 274.000000)">
+                <rect id="Rectangle" fill="#071E22" x="0" y="0" width="192" height="192" rx="2"></rect>
+                <g id="baseline-location_on-24px" transform="translate(16.000000, 16.000000)">
+                    <path d="M80,13.3333333 C54.2,13.3333333 33.3333333,34.2 33.3333333,60 C33.3333333,95 80,146.666667 80,146.666667 C80,146.666667 126.666667,95 126.666667,60 C126.666667,34.2 105.8,13.3333333 80,13.3333333 Z M80,76.6666667 C70.8,76.6666667 63.3333333,69.2 63.3333333,60 C63.3333333,50.8 70.8,43.3333333 80,43.3333333 C89.2,43.3333333 96.6666667,50.8 96.6666667,60 C96.6666667,69.2 89.2,76.6666667 80,76.6666667 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" points="0 0 160 0 160 160 0 160"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

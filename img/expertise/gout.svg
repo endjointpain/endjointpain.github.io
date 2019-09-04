@@ -1,0 +1,20 @@
+<svg height='100px' width='100px' fill="#000000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" x="0px" y="0px">
+    <title>gout-medical-arthritis-pain-bone</title>
+    <g data-name="outline create copy">
+        <path d="M49,15H47a6,6,0,0,0-6-6H39V8.5A6.49,6.49,0,0,0,26.59,5.82,8.5,8.5,0,0,0,11,10.5v9.85a8.9,8.9,0,0,0-5,8v5.93a9,9,0,0,0,4.61,7.83L15,44.59V62h2V44a1,1,0,0,0-.51-.87L11.58,40.4A7,7,0,0,1,8,34.32V28.39a6.92,6.92,0,0,1,4.37-6.46A1,1,0,0,0,13,21V10.5a6.5,6.5,0,0,1,13,0V24h2V8.5a4.5,4.5,0,0,1,9,0V30h2V16h4V14H39V11h2a4,4,0,0,1,4,4V33h2V21h3V19H47V17h2a3,3,0,0,1,3,3V39h2V26h3V24H54V22h2a3,3,0,0,1,3,3V40.93L56,61.86l2,.28,3-21A.66.66,0,0,0,61,41V25a5,5,0,0,0-5-5H54A5,5,0,0,0,49,15Z"></path>
+        <rect x="15" y="12" width="9" height="2"></rect>
+        <rect x="30" y="8" width="5" height="2"></rect>
+        <rect x="26" y="30" width="3" height="2"></rect>
+        <rect x="10" y="30" width="3" height="2"></rect>
+        <rect x="24.93" y="26" width="3" height="2" transform="translate(-9.96 16.83) rotate(-29.99)"></rect>
+        <rect x="11.07" y="34" width="3" height="2" transform="translate(-15.81 10.97) rotate(-29.99)"></rect>
+        <rect x="22" y="23.07" width="3" height="2" transform="translate(-9.1 32.39) rotate(-60.01)"></rect>
+        <rect x="14" y="36.93" width="3" height="2" transform="translate(-25.1 32.39) rotate(-60.01)"></rect>
+        <rect x="18.5" y="21.5" width="2" height="3"></rect>
+        <rect x="18.5" y="37.5" width="2" height="3"></rect>
+        <rect x="14.5" y="22.57" width="2" height="3" transform="translate(-9.96 10.97) rotate(-29.99)"></rect>
+        <rect x="22.5" y="36.43" width="2" height="3" transform="translate(-15.82 16.83) rotate(-30)"></rect>
+        <rect x="11.57" y="25.5" width="2" height="3" transform="translate(-17.1 24.39) rotate(-60)"></rect>
+        <rect x="25.43" y="33.5" width="2" height="3" transform="translate(-17.1 40.38) rotate(-60)"></rect>
+    </g>
+</svg>
